@@ -1,1 +1,2 @@
 # Sorting-Algorithms
+This project is one that I worked on for my Data Structures and Algorithms class (CS 251 - Purdue University). This project deals with two different types of algorithms, original forms of sorting algorithms and another version of those that are locally aware. Locally-aware means that the algorithm is given the maximum distance between the key's current position and where the key is supposed to be in the given data structure.
